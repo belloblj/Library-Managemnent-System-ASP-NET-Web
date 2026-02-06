@@ -6,4 +6,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\bello\Documents\BOW VALLEY\ASP.NET SODV 1255\lms\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\bello\Documents\BOW VALLEY\ASP.NET SODV 1255\lms\.editorconfig" />
+  </ItemGroup>
+
 </Project>
